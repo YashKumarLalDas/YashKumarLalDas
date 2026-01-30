@@ -4,7 +4,7 @@
 I design, build, and operate **cloud infrastructure** and automate systems using **Python and Terraform**.  
 I also bring **3+ years of experience supporting 24×7 enterprise production systems** in high-reliability environments.
 
-🔗 **Portfolio:** https://yashkumarlaldas.vercel.app/  
+🔗 **Portfolio:** https://portfolio-flax-two-altf6g455y.vercel.app/
 🔗 **LinkedIn:** https://www.linkedin.com/in/yash-kumar-lal-das/  
 📫 **Email:** laldasyash@gmail.com  
 
