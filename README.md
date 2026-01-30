@@ -1,25 +1,65 @@
-<h1 align="center">Hi 👋, I'm Yash Kumar Lal Das</h1>
-<h3 align="center">Cloud & DevOps Engineer | AWS, Terraform, Docker, Python</h3>
+# Hi, I'm Yash Kumar Lal Das 👋  
+**Cloud & DevOps Engineer | AWS | Terraform | Kubernetes | Production Systems**
 
-- 🔭 I’m currently working on [Hands-on Cloud & DevOps projects using AWS and Terraform](https://github.com/YashKumarLalDas/kubernetes-observability-reliability-platform)
+I design, build, and operate **cloud infrastructure** and automate systems using **Python and Terraform**.  
+I also bring **3+ years of experience supporting 24×7 enterprise production systems** in high-reliability environments.
 
-- 🌱 I’m currently learning **Terraform (Infrastructure as Code), Kubernetes (observability & auto-scaling), CI/CD pipelines, Cloud security & monitoring best practices**
+🔗 **Portfolio:** https://yashkumarlaldas.vercel.app/  
+🔗 **LinkedIn:** https://www.linkedin.com/in/yash-kumar-lal-das/  
+📫 **Email:** laldasyash@gmail.com  
 
-- 👨‍💻 All of my projects are available at [https://yashkumarlaldas.vercel.app/](https://yashkumarlaldas.vercel.app/)
+---
 
-- 💬 Ask me about **AWS architecture (VPC, EC2, IAM, S3, Lambda) Terraform & IaC concepts Cloud monitoring (CloudWatch, Grafana, Prometheus) Linux & production support**
+## 🚀 What I Work On
+- Designing **secure, scalable AWS architectures**
+- Building **Infrastructure as Code (IaC)** using Terraform  
+- Deploying and managing **containerized workloads (Docker & Kubernetes)**
+- Implementing **CI/CD pipelines** and automation  
+- Improving **observability, monitoring, and incident response**
 
-- 📫 How to reach me **laldasyash@gmail.com**
+---
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/yash-kumar-lal-das/](https://www.linkedin.com/in/yash-kumar-lal-das/)
+## 🌱 Currently Learning & Improving
+- Terraform for production-grade Infrastructure as Code  
+- Kubernetes (observability, scaling, reliability)  
+- CI/CD automation (GitHub Actions & Jenkins)  
+- Cloud security and monitoring best practices  
 
-- ⚡ Fun fact **I’ve supported 24×7 production systems longer than most people can stay consistent at the gym.**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/yash-kumar-lal-das/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yash-kumar-lal-das/" height="30" width="40" /></a>
-</p>
+## 🏗 Production Experience Highlights
+- Supported **mission-critical 24×7 systems** at Tata Consultancy Services  
+- Performed **incident response, log analysis, and root cause investigations**  
+- Worked extensively with **Linux systems, networking, and infrastructure monitoring**  
+- Improved operational reliability through **automation and monitoring**
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+---
 
+## 🛠 Tech Stack
+
+**Cloud Platforms**  
+AWS • Azure • GCP  
+
+**DevOps & IaC**  
+Terraform • Docker • Kubernetes • Jenkins • GitHub Actions  
+
+**Monitoring & Observability**  
+CloudWatch • Grafana • Prometheus  
+
+**Languages & Scripting**  
+Python • Bash • SQL  
+
+**Systems & Support**  
+Linux • Networking • Production Support  
+
+---
+
+## 💬 Ask Me About
+- AWS (VPC, EC2, IAM, S3, Lambda)
+- Terraform & Infrastructure as Code  
+- Monitoring & Observability  
+- Linux and production troubleshooting  
+
+---
+
+⭐ Check out my repositories below to see real cloud and DevOps projects in action.
